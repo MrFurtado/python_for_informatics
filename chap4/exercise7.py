@@ -1,3 +1,4 @@
+# Like chap 3 exercise 2
 def computegrade(score):
   try:
       score = float(prompt1)

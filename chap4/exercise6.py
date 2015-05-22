@@ -1,3 +1,6 @@
+#Like chap3 exercise 1
+
+
 def computepay(hours, rate):
   
   if hours > 40:
